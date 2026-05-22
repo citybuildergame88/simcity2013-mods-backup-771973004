@@ -1,7 +1,3 @@
-# simcity2013-mods-backup-771973004
-Temporary mirror of SimCity 2013 mods.   This repository hosts SimCity 2013 mods for download while Simtropolis is unavailable. ⚠️ Please note: Installation instructions and detailed mod information are not included here. For full documentation, refer to Simtropolis once it is back online.
-
-
 # SimCity 2013 Mods Mirror
 
 This repository provides a temporary backup of SimCity 2013 mods while Simtropolis is down.
